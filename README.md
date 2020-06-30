@@ -9,4 +9,4 @@ Certain people are acutely smart in their work. Others have an edge on the socia
 * Get a hang of the project vocabulary to have a starting point for conversation with teammates
 
 
-That said, you are never going to find the perfect work environment so invest your energy into the betterment of the current one.
+That said, you are never going to find the perfect work environment so invest your energy into the betterment of the current one. On the rare occasion that there is no way out you should leave.

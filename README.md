@@ -22,4 +22,4 @@ The title of this post is eponymous to a great [book](https://www.amazon.com/Bri
 * Get a hang of the project vocabulary to have a starting point for conversation with teammates
 
 
-Soft skills cannot be spoon fed or forced upon someone. They are about regulation of the self and must be fully embraced to be learned. If done right one can only estimate the incredible potential and added value of unlocking the full power of soft skills. That said, you are never going to find the perfect work environment so invest your energy into the betterment of the current one. On the rare occasion that there is no way out you should leave.
+Soft skills cannot be spoon fed or forced upon someone. They are about regulation of the self and must be fully embraced to be learned. If done right one can only estimate the incredible potential and added value of unlocking the full power of soft skills.

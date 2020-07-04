@@ -69,8 +69,12 @@ Most problems that arise at the workplace have been seen before. That means solu
 * find general principles in existing standard procedures; identify common denominators and consider how to use them for rarely occurring problems
 * perform after-action reviews and learn from them
 ### 8. Decision-Making
-Identifying and considering multiple options, assessing the pros and cons of each, and choosing the course of action closest to the desired outcome.
-* Vet information for legitimacy, use value and broader implications in the real world
+The key to decision-making is seeing patterns in causes and their effects and thinking ahead with insight, thereby projecting likely outcomes and consequences of decisions and actions. This can be as simple as in a game of chess or as intricate as a strategic move in times of war. The way to play the game is
+
+* identifying the players and conditions
+* deeply researching on the impact of the decision (both positive and negative outcomes)
+* performing after-action reviews and learn from them
+* forming an action tree
 ### 9. Respect for Context
 Reading and adapting to the existing structure, rules, customs and leadership in an unfamiliar situation.
 * Vet information for legitimacy, use value and broader implications in the real world### 5. Citizenship

@@ -31,6 +31,7 @@ According to studies good employeee attitude drive positive results. Bad employe
 * optimism
 * generosity
 * enthusiasm
+
 Leverage good behavior and strengths. Identify bad attitude and take corrective action when it happens. Do not accept failure. If you learn to display a positive attitude regardless of how you feel inside, then you will have learned one of the most important broad transferable skills you could ever learn.
 ### 4. Work Habits
 

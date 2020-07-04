@@ -23,7 +23,7 @@ The goal here is to take greater personal responsibility by learning to stay foc
 
 Make a list of all the stones lying in the way and work out a response to eliminate them.
 ### 3. Attitude
-According to studies good employeee attitude drive positive results. Bad employee attitude put a drag on results. Attitude is very, very important. It is changeable and definitely not a personal issue. Neither is it a vague term. A great attitude is defined by (in the given order):
+According to studies good employeee attitude drive positive results. Bad employee attitude put a drag on results. Attitude is very, very important. It is changeable and definitely not a personal issue. Neither is it a vague term. A great attitude is defined by several traits (in the given order):
 * expressions
 * words
 * tone
@@ -31,9 +31,9 @@ According to studies good employeee attitude drive positive results. Bad employe
 * optimism
 * generosity
 * enthusiasm
-
-If you learn to display a positive attitude regardless of how you feel inside that you will have learned one of the most important broad transferable skills you could ever learn.
+Leverage good behavior and strengths. Identify bad attitude and take corrective action when it happens. Do not accept failure. If you learn to display a positive attitude regardless of how you feel inside, then you will have learned one of the most important broad transferable skills you could ever learn.
 ### 4. Work Habits
+
 Wellness, self-presentaion, timeliness, organization, productivity, quality, follow-through, and initiative.
 ### 5. People Skills
 Attentive listening, observing and reading; perceiving and empathizing; effective use of words, tone, expressions, and gestures-verbal, written and otherwise-one-on-one and in groups; in person, and remotely.

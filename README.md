@@ -52,7 +52,7 @@ Poor communication is a result of not following communication best practices and
 * Observing and reading: Don't interrupt or let your mind wander when others speak
 * Perceiving and empathizing: Put yourself in the other person's position
 * Effective use of words: Prepare in advance to keep things brief, direct and clear. Don't speak of a problem unless you have thought of at least one potential solution. Take responsibility for everything you say and do. No excuses.
-* Tone and expressions: Take yourself less seriously, but give credit where fair and stick to your commitments and responsibilities.
+* Tone and expressions: Take yourself less seriously, but give credit where due and stick to your commitments and responsibilities.
 
 Put structure into your communication by scheduling meetings and following a well-organized agenda. Recap the meeting, the following steps and timeline.
 ### 6. Proactive Learning

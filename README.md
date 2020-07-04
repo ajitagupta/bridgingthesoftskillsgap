@@ -16,12 +16,12 @@ When it comes to continuous improvement of any kind self-evaluation is the begin
 * quality
 * behavior
 ### 2. Personal Responsibility
-The goal here is to take greater personal responsibility by learning to stay focused on what you can control directly and not defer the blame on external uncontrollable factors. At every step, ask yourself the following:
+The goal here is to take greater responsibility by learning to stay focused on what you can control directly and not defer the blame on external uncontrollable factors. At every step, ask yourself the following:
 * What is within my control right now?
 * Where will I focus my attention and energy? What are the options?
 * What's the plan? What are my next steps?
 
-Make a list of all the stones lying in the way and work out a response to eliminate them.
+Make a list of all the stones lying in the way and work out a response to remove them.
 ### 3. Attitude
 According to studies good employeee attitude drive positive results. Bad employee attitude put a drag on results. Attitude is very, very important. It is changeable and definitely not a personal issue. Neither is it a vague term. A great attitude is defined by several traits (in the given order):
 * expressions
@@ -34,8 +34,17 @@ According to studies good employeee attitude drive positive results. Bad employe
 
 Leverage good behavior and strengths. Identify bad attitude and take corrective action when it happens. Do not accept failure. If you learn to display a positive attitude regardless of how you feel inside, then you will have learned one of the most important broad transferable skills you could ever learn.
 ### 4. Work Habits
+The company's business is directly impacted by work habits, e.g. coming late, not paying attention to detail and not taking initiative, all lead to missed opportunities. Good habits are:
+* wellness (healthy body, mind, spirit)
+* self-presentaion (grooming, attire, manners)
+* timeliness (arriving early, staying late, taking short breajs, meeting schedules and deadlines)
+* organization (taking notes, project plans, checklists, filing)
+* productivity (pace of work)
+* attention to details (following instructions, standards and specifications)
+* follow-through (finishing commitments and started projects)
+* initiative (no explicit direction, the extra mile)
 
-Wellness, self-presentaion, timeliness, organization, productivity, quality, follow-through, and initiative.
+Maintain a schedule to keep score and track progress. It takes weeks of practice to incorporate and form new habits. But the products of good habits are visible and so are the products of bad habits. It's your call.
 ### 5. People Skills
 Attentive listening, observing and reading; perceiving and empathizing; effective use of words, tone, expressions, and gestures-verbal, written and otherwise-one-on-one and in groups; in person, and remotely.
 ### 6. Proactive Learning

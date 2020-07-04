@@ -65,8 +65,8 @@ Knowledge comes from studying good information. Skills comes from practicing goo
 ### 7. Problem-Solving
 Most problems that arise at the workplace have been seen before. That means solutions exist and can be learnt. Moreover, by drawing on elements of ready-made solutions one begins to understand and appreciate common denominators and underlying principles, making it easier to improvise and tackle unanticipated problems. More specifically,
 
-* inspect and study the most common recurring problems that you encounter at work. Create a standard procedure to prevent or avoid these problems in future 
-* find general principles in existing standard procedures. Identify common denominators and consider how to use them for rarely occurring problems
+* inspect and study the most common recurring problems that you encounter at work; create a standard procedure to prevent or avoid these problems in future 
+* find general principles in existing standard procedures; identify common denominators and consider how to use them for rarely occurring problems
 * perform after-action reviews and learn from them
 ### 8. Decision-Making
 Identifying and considering multiple options, assessing the pros and cons of each, and choosing the course of action closest to the desired outcome.

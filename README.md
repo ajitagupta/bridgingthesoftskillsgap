@@ -16,15 +16,23 @@ When it comes to continuous improvement of any kind self-evaluation is the begin
 * quality
 * behavior
 ### 2. Personal Responsibility
-The goal here is to take greater personal responsibility by learning to stay focused on what one can control directly and not defer the blame on external uncontrollable factors. At every step, ask yourself the following:
+The goal here is to take greater personal responsibility by learning to stay focused on what you can control directly and not defer the blame on external uncontrollable factors. At every step, ask yourself the following:
 * What is within my control right now?
-* Where will I focus my attention and energy?
-* What are my options?
+* Where will I focus my attention and energy? What are the options?
 * What's the plan? What are my next steps?
 
-Make a list of all the factors that represent obstacles and work out a response to tackle them.
+Make a list of all the stones lying in the way and work out a response to eliminate them.
 ### 3. Attitude
-Maintaining and conveying a positive, generous, enthusiastic demeanor in one's expressions, gestures, words and tone.
+According to studies good employeee attitude drive positive results. Bad employee attitude put a drag on results. Attitude is very, very important. It is changeable and definitely not a personal issue. Neither is it a vague term. A great attitude is defined by (in the given order):
+* expressions
+* words
+* tone
+* gestures
+* optimism
+* generosity
+* enthusiasm
+
+If you learn to display a positive attitude regardless of how you feel inside that you will have learned one of the most important broad transferable skills you could ever learn.
 ### 4. Work Habits
 Wellness, self-presentaion, timeliness, organization, productivity, quality, follow-through, and initiative.
 ### 5. People Skills

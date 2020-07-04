@@ -2,7 +2,7 @@
 
 Certain people are acutely smart in their work (technical, easy to measure, *hard skills*). Others have an edge on the social side (non-technical, broad, *soft skills*). When employees have significant gaps in their soft skills there are significant negative consequences, e.g. good hires are overlooked, customer service suffers, conflicts occur more frequently, unnecessary costs arise. Nine times out of ten an unsuccessful hire fails due to soft skills, not hard.
 
-You cannot have a functional workplace where everybody makes his or her own rules of conduct. Conforming to a set of basic practices is adequate and makes sense here. Thence, I have hunt down those guidelines and created a compendium in order to communicate well and be able to connect better.
+You cannot have a functional workplace where everybody makes his or her own rules of conduct. Conforming to a set of basic practices is adequate and makes sense here. Thence, I have hunt down those guidelines and created a compendium with the aim to communicate well and be able to connect better.
 
 ### 1. Self-Evaluation
 When it comes to continuous improvement of any kind self-evaluation is the beginning, middle and end. It refers to assessing one's own thoughts, words and actions against clear, meaningful standards; and one's own performance against specific goals, timelines, guidelines and parameters. Regular self-evaluation will build self-awareness and support your learning and growth going forward. Checklist includes 

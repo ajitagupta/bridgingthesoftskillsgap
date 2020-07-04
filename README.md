@@ -4,6 +4,8 @@ Certain people are acutely smart in their work (technical, easy to measure, *har
 
 You cannot have a functional workplace where everybody makes his or her own rules of conduct. Conforming to a set of basic practices is adequate and makes sense here. Thence, I have hunt down those guidelines and created a compendium with the aim to communicate well and be able to connect better.
 
+The title of this post ie eponymous to a [great book](https://www.amazon.com/Bridging-Soft-Skills-Gap-Missing/dp/1118725646/ref=sr_1_1?crid=2IX0QI0ATUVKX&dchild=1&keywords=bridging+the+soft+skills+gap&qid=1593540443&s=books&sprefix=bridging+the+soft%2Caps%2C256&sr=1-1) by management coach Bruce Tulgan on which much of this post is based.
+
 ### 1. Self-Evaluation
 When it comes to continuous improvement of any kind self-evaluation is the beginning, middle and end. It refers to assessing one's own thoughts, words and actions against clear, meaningful standards; and one's own performance against specific goals, timelines, guidelines and parameters. Regular self-evaluation will build self-awareness and support your learning and growth going forward. Checklist includes 
 * ability

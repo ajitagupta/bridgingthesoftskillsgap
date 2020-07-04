@@ -21,6 +21,7 @@ The goal here is to take greater personal responsibility by learning to stay foc
 * Where will I focus my attention and energy?
 * What are my options?
 * What's the plan? What are my next steps?
+
 Make a list of all the factors that represent obstacles and work out a response to tackle them.
 ### 3. Attitude
 Maintaining and conveying a positive, generous, enthusiastic demeanor in one's expressions, gestures, words and tone.

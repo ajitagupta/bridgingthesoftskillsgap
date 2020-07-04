@@ -37,7 +37,7 @@ Leverage good behavior and strengths. Identify bad attitude and take corrective 
 The company's business is directly impacted by work habits, e.g. coming late, not paying attention to detail and not taking initiative, all lead to missed opportunities. Good habits are:
 * wellness (healthy body, mind, spirit)
 * self-presentaion (grooming, attire, manners)
-* timeliness (arriving early, staying late, taking short breajs, meeting schedules and deadlines)
+* timeliness (arriving early, staying late, taking short breaks, meeting schedules and deadlines)
 * organization (taking notes, project plans, checklists, filing)
 * productivity (pace of work)
 * attention to details (following instructions, standards and specifications)
@@ -46,7 +46,15 @@ The company's business is directly impacted by work habits, e.g. coming late, no
 
 Maintain a schedule to keep score and track progress. It takes weeks of practice to incorporate and form new habits. But the products of good habits are visible and so are the products of bad habits. It's your call.
 ### 5. People Skills
-Attentive listening, observing and reading; perceiving and empathizing; effective use of words, tone, expressions, and gestures-verbal, written and otherwise-one-on-one and in groups; in person, and remotely.
+Poor communication is a result of not following communication best practices and primary cause of unnecessary problems in the workplace. Learning them will help you develop better habits and build better workplace relationships. These are:
+
+* Attentive listening: Listen twice as much as you talk
+* Observing and reading: Don't interrupt or let your mind wander when others speak
+* Perceiving and empathizing: Put yourself in the other person's position
+* Effective use of words: Prepare in advance to keep things brief, direct and clear. Don't speak of a problem unless you have thought of at least one potential solution. Take responsibility for everything you say and do. No excuses.
+* Tone and expressions: Take yourself less seriously, but give credit where fair and stick to your commitments and responsibilities.
+
+Put structure into your communication by scheduling meetings and following a well-organized agenda. Recap the meeting, the following steps and timeline.
 ### 6. Proactive Learning
 Keeping an open mind, suspending judgment, questioning assumptions an seeking out information, technique, and perspective, and studying, practicing and contemplating in order to build one^s stored knowledge base, skill set and wisdom.
 * Vet information for legitimacy, use value and broader implications in the real world

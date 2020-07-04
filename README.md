@@ -34,7 +34,7 @@ According to studies good employee attitude drive positive results. Bad employee
 
 Leverage good behavior and strengths. Identify bad attitude and take corrective action when it happens. Do not accept failure. If you learn to display a positive attitude regardless of how you feel inside, then you will have learned one of the most important broad transferable skills you could ever learn.
 ### 4. Work Habits
-The company's business is directly impacted by work habits, e.g. coming late, not paying attention to detail and not taking initiative, all lead to missed opportunities. Good habits are:
+The company's business is directly impacted by work habits, e.g. coming late, not paying attention to detail and not taking initiative, all lead to missed opportunities. Good habits refer to
 * wellness (healthy body, mind, spirit)
 * self-presentaion (grooming, attire, manners)
 * timeliness (arriving early, staying late, taking short breaks, meeting schedules and deadlines)
@@ -56,15 +56,18 @@ Poor communication is a result of not following communication best practices and
 
 Put structure into your communication by scheduling meetings and following a well-organized agenda. Recap the meeting, the following steps and timeline.
 ### 6. Proactive Learning
-Leading research says if you are not actively learning you actually become a little dumber every day. Merely the effort of learning is great exercise and strengthens your mind. Proactive learning is the first step to developing critical thinking skills and consists of:
+Leading research says if you are not actively learning you actually become a little dumber every day. Merely the effort of learning is great exercise and strengthens your mind. Proactive learning is the first step to developing critical thinking skills and consists of
 * keeping an open mind
 * suspending judgment, questioning assumptions and seeking out information (by asking good questions and drafting a research plan)
 * studying, practicing and contemplating
 
 Knowledge comes from studying good information. Skills comes from practicing good technique, whereas wisdom originates from appreciating and understanding multiple perspectives.
 ### 7. Problem-Solving
-Mastering established best-practices-proven repeatable solutions for dealing with regular recurring decisions-so as to avoid reinventing the wheel. Using repeatable solutions to improvise when addressing decisions that are new but similar.
-* Vet information for legitimacy, use value and broader implications in the real world
+Most problems that arise at the workplace have been seen before. That means solutions exist and can be learnt. Moreover, by drawing on elements of ready-made solutions one begins to understand and appreciate common denominators and underlying principles, making it easier to improvise and tackle unanticipated problems. More specifically,
+
+* inspect and study the most common recurring problems that you encounter at work. Create a standard procedure to prevent or avoid these problems in future 
+* find general principles in existing standard procedures. Identify common denominators and consider how to use them for rarely occurring problems
+* perform after-action reviews and learn from them
 ### 8. Decision-Making
 Identifying and considering multiple options, assessing the pros and cons of each, and choosing the course of action closest to the desired outcome.
 * Vet information for legitimacy, use value and broader implications in the real world

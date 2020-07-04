@@ -56,8 +56,12 @@ Poor communication is a result of not following communication best practices and
 
 Put structure into your communication by scheduling meetings and following a well-organized agenda. Recap the meeting, the following steps and timeline.
 ### 6. Proactive Learning
-Keeping an open mind, suspending judgment, questioning assumptions an seeking out information, technique, and perspective, and studying, practicing and contemplating in order to build one^s stored knowledge base, skill set and wisdom.
-* Vet information for legitimacy, use value and broader implications in the real world
+Leading research says if you are not actively learning you actually become a little dumber every day. Merely the effort of learning is great exercise and strengthens your mind. Proactive learning is the first step to developing critical thinking skills and consists of:
+* keeping an open mind
+* suspending judgment, questioning assumptions and seeking out information (by asking good questions and drafting a research plan)
+* studying, practicing and contemplating
+
+Knowledge comes from studying good information. Skills comes from practicing good technique, whereas wisdom originates from appreciating and understanding multiple perspectives.
 ### 7. Problem-Solving
 Mastering established best-practices-proven repeatable solutions for dealing with regular recurring decisions-so as to avoid reinventing the wheel. Using repeatable solutions to improvise when addressing decisions that are new but similar.
 * Vet information for legitimacy, use value and broader implications in the real world

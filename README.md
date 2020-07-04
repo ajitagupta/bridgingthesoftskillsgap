@@ -73,7 +73,7 @@ The key to decision-making is seeing patterns in causes and their effects and th
 
 * identifying the players and conditions
 * deeply researching on the impact of the decision (both positive and negative outcomes)
-* performing after-action reviews and learn from them
+* performing after-action reviews and learning from them
 * forming an action tree
 ### 9. Respect for Context
 Reading and adapting to the existing structure, rules, customs and leadership in an unfamiliar situation.

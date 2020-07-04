@@ -44,7 +44,7 @@ The company's business is directly impacted by work habits, e.g. coming late, no
 * follow-through (finishing commitments and started projects)
 * initiative (no explicit direction, the extra mile)
 
-Maintain a schedule to keep score and track progress. It takes weeks of practice to incorporate and form new habits. But the products of good habits are visible and so are the products of bad habits. It's your call.
+Maintain a schedule to keep score and track progress. It takes weeks of practice to incorporate and form new habits. But the products of good habits are visible and so are the products of bad habits. It's your judgment call.
 ### 5. People Skills
 Poor communication is a result of not following communication best practices and primary cause of unnecessary problems in the workplace. Learning them will help you develop better habits and build better workplace relationships. These are:
 

@@ -23,7 +23,7 @@ The goal here is to take greater responsibility by learning to stay focused on w
 
 Make a list of all the stones lying in the way and work out a response to remove them.
 ### 3. Attitude
-According to studies good employeee attitude drive positive results. Bad employee attitude put a drag on results. Attitude is very, very important. It is changeable and definitely not a personal issue. Neither is it a vague term. A great attitude is defined by several traits (in the given order):
+According to studies good employee attitude drive positive results. Bad employee attitude put a drag on results. Attitude is very, very important. It is changeable and definitely not a personal issue. Neither is it a vague term. A great attitude is defined by several traits (in the given order):
 * expressions
 * words
 * tone

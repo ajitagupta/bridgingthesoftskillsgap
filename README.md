@@ -4,9 +4,6 @@ Certain people are acutely smart in their work (technical, easy to measure, *har
 
 In order to engage and work together effectively with others it necessitates one skill set to blend in well with the other. You cannot have a functional workplace where everybody makes his or her own rules of conduct. Conforming to a set of basic practices is adequate and makes sense here. Thence, I have hunt down those guidelines and created a compendium to be able to communicate well and connect better.
 
-The title of this post is eponymous to a great [book](https://www.amazon.com/Bridging-Soft-Skills-Gap-Missing/dp/1118725646/ref=sr_1_1?crid=2IX0QI0ATUVKX&dchild=1&keywords=bridging+the+soft+skills+gap&qid=1593540443&s=books&sprefix=bridging+the+soft%2Caps%2C256&sr=1-1) by management coach Bruce Tulgan, on which much of this post is based. Further, ideas mentioned have been borrowed from the bestseller in Software Engineering [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_2?crid=6GKZD0PUB6QK&dchild=1&keywords=pragmatic+programmer&qid=1593635880&s=books&sprefix=pragmatic%2Caps%2C252&sr=1-2) and split into 12 pivotal categories:
-
-
 ### 1. Self-Evaluation
 ### 2. Personal Responsibility
 ### 3. Attitude

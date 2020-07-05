@@ -73,8 +73,13 @@ The key to decision-making is seeing patterns in causes and their effects and th
 * performing after-action reviews and learning from them
 * forming an action tree
 ### 9. Respect for Context
-Reading and adapting to the existing structure, rules, customs and leadership in an unfamiliar situation.
-* Vet information for legitimacy, use value and broader implications in the real world### 5. Citizenship
+Respect for context is developed by learning to read and adapt to existing structure, rules, customs and leaders in an unfamiliar situation. Structure your thoughts as follows:
+* What is the context? (Describe the details)
+* Where do I fit in?
+* Why am I here? What is at stake for me?
+* How can I adapt?
+* What are the context-limiting factors (e.g. too much work, interruptions, unclear lines of authority)?
+The goal is to work on tasks you enjoy, be comfortable and engaged.
 ### 10. Citizenship
 Accepting, embracing and observing, not just the rights and rewards, but the duties of membership/belonging/participation in a defined group with its own structure rules. customers, and leadership.
 * Vet information for legitimacy, use value and broader implications in the real world

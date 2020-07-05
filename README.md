@@ -91,7 +91,7 @@ The very meaning of loyalty is changing. The youngsters of today want just a job
 * Personal sacrifice (benefit of doubt, patience, candor, additional effort)
 * Do the fair share of your work
 
-Think about each of these points for a moment or two and ask yourself *why* these approaches are in the best interest of the company.
+Think about each of these points for a moment or two and ask yourself where you stand and how you could get better.
 ### 11. Service
 Approaching relationships in terms of what you have to offer-respect, commitment, hard work, creativity, sacrifice-rather than what you need or want.
 * Vet information for legitimacy

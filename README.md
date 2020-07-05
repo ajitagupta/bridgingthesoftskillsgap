@@ -89,7 +89,8 @@ The very meaning of loyalty is changing. The youngsters of today want just a job
 * Common sense
 * Adhere to solid standards (be on time, overdeliver, keep your word, practice old-fashioned good manners)
 * Personal sacrifice (benefit of doubt, patience, candor, additional effort)
-* Do fair share of your work
+* Do the fair share of your work
+
 Think about each of these points for a moment or two and ask yourself *why* these approaches are in the best interest of the company.
 ### 11. Service
 Approaching relationships in terms of what you have to offer-respect, commitment, hard work, creativity, sacrifice-rather than what you need or want.

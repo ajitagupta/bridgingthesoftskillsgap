@@ -95,10 +95,14 @@ Think about each of these points for a moment or two and ask yourself where you 
 ### 11. Service
 According to the service mindset the organization, manager, colleagues, partners, vendors and customers - all of them but you - are customers. The best way to prove yourself is to give, sacrifice, suffer and give even more till it hurts. It's a huge investment in yourself and your growing reputation. If you want to receive special treatment you should be prepared to go the extra mile and earn it. Get input from your boss while you have the chance and think about what input you should be providing based on what you are learning on the front line.
 ### 12. Working in Teams
-Playing whatever role is needed to support the larger missions; coordinating, cooperating, and collaborating with others in pursuit of a shared goal; supporting and celebrating the success of others.
-* Team lead should introduce you and help you in getting started (e.g. through a kick-off meeting)
-* Read documentation or tutorial to understand the expectations (perhaps there is one for onboarding)
-* Get a hang of the project vocabulary to have a starting point for conversation with teammates
+The key to creating bonding among young people working together is creating conditions in which they do lots of challenging work together under the strong direction of a highly committed leader. The strongest peer relationships form in environments with a strong focus on the shared mission, the shared work and the common ground. No matter where you work or what you do your work involves dealing with other people - internally and externally. In order to be a great team mate
+* stay focused on the shared mission and 
+* make yourself available and easy to work with
+* coordinate, cooperate and collaborate with others
+* play your assigned position as needed to support the larger effort
+* focus on the best interest of the while, at times at the expense of your own
+* support team members, help them succeed and celebrate their success (be the "go-to" person)
 
+It would help to clearly define the larger mission or the organization and your role in relation to it.
 
 Soft skills cannot be spoon fed or forced upon someone. People must be made aware of them with a powerful message. People must be pushed to start to care. People must learn the basics, one at a time. If done right one can only estimate the incredible potential and added value of unlocking the full power of soft skills.

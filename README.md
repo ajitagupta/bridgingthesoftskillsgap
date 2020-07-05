@@ -47,7 +47,6 @@ The company's business is directly impacted by work habits, e.g. coming late, no
 Maintain a schedule to keep score and track progress. It takes weeks of practice to incorporate and form new habits. But the products of good habits are visible and so are the products of bad habits. It's your judgment call.
 ### 5. People Skills
 Poor communication is a result of not following communication best practices and primary cause of unnecessary problems in the workplace. Learning them will help you develop better habits and build better workplace relationships. These are:
-
 * Attentive listening: Listen twice as much as you talk
 * Observing and reading: Don't interrupt or let your mind wander when others speak
 * Perceiving and empathizing: Put yourself in the other person's position
@@ -64,13 +63,11 @@ Leading research says if you are not actively learning you actually become a lit
 Knowledge comes from studying good information. Skills comes from practicing good technique, whereas wisdom originates from appreciating and understanding multiple perspectives.
 ### 7. Problem-Solving
 Most problems that arise at the workplace have been seen before. That means solutions exist and can be learnt. Moreover, by drawing on elements of ready-made solutions one begins to understand and appreciate common denominators and underlying principles, making it easier to improvise and tackle unanticipated problems. More specifically,
-
 * inspect and study the most common recurring problems that you encounter at work; create a standard procedure to prevent or avoid these problems in future 
 * find general principles in existing standard procedures; identify common denominators and consider how to use them for rarely occurring problems
 * perform after-action reviews and learn from them
 ### 8. Decision-Making
 The key to decision-making is seeing patterns in causes and their effects and thinking ahead with insight, thereby projecting likely outcomes and consequences of decisions and actions. This can be as simple as in a game of chess or as intricate as a strategic move in times of war. The way to play the game is
-
 * identifying the players and conditions
 * deeply researching on the impact of the decision (both positive and negative outcomes)
 * performing after-action reviews and learning from them

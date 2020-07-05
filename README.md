@@ -86,15 +86,14 @@ The very meaning of loyalty is changing. The youngsters of today want just a job
 * Best interests of the involved (mission, company, customers, employees, partners, vendors, community)
 * Thinking civilly (monitoring, reporting, building coalitions, managing conflicts fairly)
 * Communitarian (honesty, compassion, respect, responsibility, courage)
-* Common sense
+* Common sense (courtesy, preparing for meetings in advance, personal responsibility)
 * Adhere to solid standards (be on time, overdeliver, keep your word, practice old-fashioned good manners)
 * Personal sacrifice (benefit of doubt, patience, candor, additional effort)
 * Do the fair share of your work
 
 Think about each of these points for a moment or two and ask yourself where you stand and how you could get better.
 ### 11. Service
-Approaching relationships in terms of what you have to offer-respect, commitment, hard work, creativity, sacrifice-rather than what you need or want.
-* Vet information for legitimacy
+According to the service mindset the organization, manager, colleagues, partners, vendors and customers - all of them but you - are customers. The best way to prove yourself is to give, sacrifice, suffer and give even more till it hurts. It's a huge investment in yourself and your growing reputation. If you want to receive special treatment you should be prepared to go the extra mile and earn it. Get input from your boss while you have the chance and think about what input you should be providing based on what you are learning on the front line.
 ### 12. Working in Teams
 Playing whatever role is needed to support the larger missions; coordinating, cooperating, and collaborating with others in pursuit of a shared goal; supporting and celebrating the success of others.
 * Team lead should introduce you and help you in getting started (e.g. through a kick-off meeting)

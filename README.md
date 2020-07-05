@@ -81,8 +81,16 @@ Respect for context is developed by learning to read and adapt to existing struc
 * What are the context-limiting factors (e.g. too much work, interruptions, unclear lines of authority)?
 The purpose of respect for context is to work on tasks you enjoy, be comfortable and engaged.
 ### 10. Citizenship
-Accepting, embracing and observing, not just the rights and rewards, but the duties of membership/belonging/participation in a defined group with its own structure rules. customers, and leadership.
-* Vet information for legitimacy, use value and broader implications in the real world
+The very meaning of loyalty is changing. The youngsters of today want just a job, earn huge amounts of money, build their skills or are still figuring out what to do next. Some also look to align their priorities with their job. Others follow a peer group. In all these cases there is an unwillingness to make personal sacrifice and not ask *What's in for me?*. Over time, the power of belonging and good citizenship comes from accepting, embracing and observing, not just the rights and rewards, but one's duties. Why should you care? You should know what really matters to you and what it's worth to you. You must feel really great about being here. What are the rules?
+* Respect for others
+* Best interests of the involved (mission, company, customers, employees, partners, vendors, community)
+* Thinking civilly (monitoring, reporting, building coalitions, managing conflicts fairly)
+* Communitarian (honesty, compassion, respect, responsibility, courage)
+* Common sense
+* Adhere to solid standards (be on time, overdeliver, keep your word, practice old-fashioned good manners)
+* Personal sacrifice (benefit of doubt, patience, candor, additional effort)
+* Do fair share of your work
+Think about each of these points for a moment or two and ask yourself *why* these approaches are in the best interest of the company.
 ### 11. Service
 Approaching relationships in terms of what you have to offer-respect, commitment, hard work, creativity, sacrifice-rather than what you need or want.
 * Vet information for legitimacy

@@ -88,9 +88,9 @@ The very meaning of loyalty is changing. The youngsters of today want just a job
 * Thinking civilly (monitoring, reporting, building coalitions, managing conflicts fairly)
 * Communitarian (honesty, compassion, respect, responsibility, courage)
 * Common sense (courtesy, preparing for meetings in advance, personal responsibility)
-* Adhere to solid standards (be on time, overdeliver, keep your word, practice old-fashioned good manners)
+* Adherence to solid standards (be on time, overdeliver, keep your word, practice old-fashioned good manners)
 * Personal sacrifice (benefit of doubt, patience, candor, additional effort)
-* Do the fair share of your work
+* Doing the fair share of your work
 
 Think about each of these points for a moment or two and ask yourself where you stand and how you could get better.
 ### 11. Service

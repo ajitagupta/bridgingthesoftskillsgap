@@ -36,7 +36,7 @@ Leverage good behavior and strengths. Identify bad attitude and take corrective 
 ### 4. Work Habits
 The company's business is directly impacted by work habits, e.g. coming late, not paying attention to detail and not taking initiative, all lead to missed opportunities. Good habits refer to
 * wellness (healthy body, mind, spirit)
-* self-presentaion (grooming, attire, manners)
+* self-presentation (grooming, attire, manners)
 * timeliness (arriving early, staying late, taking short breaks, meeting schedules and deadlines)
 * organization (taking notes, project plans, checklists, filing)
 * productivity (pace of work)

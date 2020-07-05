@@ -79,6 +79,7 @@ Respect for context is developed by learning to read and adapt to existing struc
 * Why am I here? What is at stake for me?
 * How can I adapt?
 * What are the context-limiting factors (e.g. too much work, interruptions, unclear lines of authority)?
+
 The purpose of respect for context is to work on tasks you enjoy, be comfortable and engaged.
 ### 10. Citizenship
 The very meaning of loyalty is changing. The youngsters of today want just a job, earn huge amounts of money, build their skills or are still figuring out what to do next. Some also look to align their priorities with their job. Others follow a peer group. In all these cases there is an unwillingness to make personal sacrifice and not ask *What's in for me?*. Over time, the power of belonging and good citizenship comes from accepting, embracing and observing, not just the rights and rewards, but one's duties. Why should you care? You should know what really matters to you and what it's worth to you. You must feel really great about being here. What are the rules?
@@ -95,12 +96,12 @@ Think about each of these points for a moment or two and ask yourself where you 
 ### 11. Service
 According to the service mindset the organization, manager, colleagues, partners, vendors and customers - all of them but you - are customers. The best way to prove yourself is to give, sacrifice, suffer and give even more till it hurts. It's a huge investment in yourself and your growing reputation. If you want to receive special treatment you should be prepared to go the extra mile and earn it. Get input from your boss while you have the chance and think about what input you should be providing based on what you are learning on the front line.
 ### 12. Working in Teams
-The key to creating bonding among young people working together is creating conditions in which they do lots of challenging work together under the strong direction of a highly committed leader. The strongest peer relationships form in environments with a strong focus on the shared mission, the shared work and the common ground. No matter where you work or what you do your work involves dealing with other people - internally and externally. In order to be a great team mate
+The key to bonding among young people working together is creating conditions in which they do lots of challenging work together under the strong direction of a highly committed leader. The strongest peer relationships form in environments with a strong focus on the shared mission, the shared work and the common ground. No matter where you work or what you do your work involves dealing with other people - internally and externally. In order to be a great team mate
 * stay focused on the shared mission and 
 * make yourself available and easy to work with
 * coordinate, cooperate and collaborate with others
 * play your assigned position as needed to support the larger effort
-* focus on the best interest of the while, at times at the expense of your own
+* focus on the best interest of the whole, at times at the expense of your own
 * support team members, help them succeed and celebrate their success (be the "go-to" person)
 
 It would help to clearly define the larger mission or the organization and your role in relation to it.
